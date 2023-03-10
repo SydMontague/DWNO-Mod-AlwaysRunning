@@ -4,8 +4,6 @@ This mod swaps the walking and running speed, causing the player to always run u
 Additionally it allows the walking and running speeds to adjusted in a config file.
 This mod causes the player character to always run unless the 'running' button is pressedspeeds up collecting items and materials in the PC Version of Digimon World Next 0rder.
 
-It does so by skipping any wait times and player/partner animations.
-
 ## Installation
 
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx) ([Tutorial by Yasha-jin](https://github.com/Yasha-jin/DWNOModdingGuides/blob/main/Guides/HowToInstallBepInExForDWNO.md))
