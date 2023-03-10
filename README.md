@@ -3,6 +3,8 @@
 This mod swaps the walking and running speed, causing the player to always run unless the running button is pressed.
 Additionally it allows the walking and running speeds to adjusted in a config file.
 
+Note: too high speed values might lead to the camera and Digimon having trouble to catch up.
+
 ## Installation
 
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx) ([Tutorial by Yasha-jin](https://github.com/Yasha-jin/DWNOModdingGuides/blob/main/Guides/HowToInstallBepInExForDWNO.md))
