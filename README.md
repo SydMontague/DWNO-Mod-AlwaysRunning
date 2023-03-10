@@ -1,13 +1,15 @@
-# DWNO FastPickup Mod
+# DWNO AlwaysRunning Mod
 
-This mod speeds up collecting items and materials in the PC Version of Digimon World Next 0rder.
+This mod swaps the walking and running speed, causing the player to always run unless the running button is pressed.
+Additionally it allows the walking and running speeds to adjusted in a config file.
+This mod causes the player character to always run unless the 'running' button is pressedspeeds up collecting items and materials in the PC Version of Digimon World Next 0rder.
 
 It does so by skipping any wait times and player/partner animations.
 
 ## Installation
 
 1. Install [BepInEx](https://github.com/BepInEx/BepInEx) ([Tutorial by Yasha-jin](https://github.com/Yasha-jin/DWNOModdingGuides/blob/main/Guides/HowToInstallBepInExForDWNO.md))
-2. Download the latest release from the [Releases Tab](https://github.com/SydMontague/DWNO-Mod-FastPickup/releases)
+2. Download the latest release from the [Releases Tab](https://github.com/SydMontague/DWNO-Mod-AlwaysRunning/releases)
 3. Copy the `AlwaysRunning.dll` into the `plugins` folder of BepInEx
 4. Start the game and enjoy :)
 5. (Optional) change the speed modifiers in the plugin's config inside the `config` folder of BepInEx
