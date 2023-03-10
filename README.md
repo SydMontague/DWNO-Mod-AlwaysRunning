@@ -2,7 +2,6 @@
 
 This mod swaps the walking and running speed, causing the player to always run unless the running button is pressed.
 Additionally it allows the walking and running speeds to adjusted in a config file.
-This mod causes the player character to always run unless the 'running' button is pressedspeeds up collecting items and materials in the PC Version of Digimon World Next 0rder.
 
 ## Installation
 
